@@ -1,0 +1,12 @@
+# Zip arşivleri (gereksiz)
+*.zip
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+
+# Editör
+.vscode/
+*.swp
+*.swo
+*~
