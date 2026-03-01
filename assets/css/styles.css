@@ -225,8 +225,9 @@ main{padding-top:96px;flex:1}
 .footer__brand{display:flex;align-items:center;gap:16px}
 .footer__logo-box{width:56px;height:56px;background:#fff;border-radius:10px;display:flex;align-items:center;justify-content:center;padding:8px;flex-shrink:0}
 .footer__logo{height:100%;width:auto;max-height:40px;object-fit:contain}
-.footer__info{display:flex;flex-direction:column;gap:4px}
-.footer__name{color:#fff;font-size:20px;font-weight:800}
+.footer__info{display:flex;flex-direction:column;gap:2px;align-items:flex-start}
+.footer__name{margin:0;font-family:'Dancing Script',cursive;font-weight:700;font-size:32px;color:#fff;letter-spacing:.08em}
+.footer__job{margin:0;font-family:'Inter',sans-serif;font-weight:500;font-size:11px;color:rgba(255,255,255,.85);letter-spacing:.28em;text-transform:uppercase;align-self:center}
 .footer__title{color:rgba(255,255,255,.8);font-size:13px;font-weight:500}
 .footer__imza{height:56px;width:auto;object-fit:contain;margin-left:8px}
 .footer .social{flex-shrink:0}
